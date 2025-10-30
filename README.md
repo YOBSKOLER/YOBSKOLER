@@ -36,7 +36,7 @@
 
 📧 yobskoler9@gmail.com  
 💼 LinkedIn : *(ajoute ton lien si tu en as un)*  
-🐙 GitHub : [github.com/TON_PSEUDO](https://github.com/YOBSKOLER)
+🐙 GitHub : [github.com/YOBSKOLER](https://github.com/YOBSKOLER)
 
 ---
 
