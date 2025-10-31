@@ -35,7 +35,7 @@
 📫 Me contacter
 
 📧 yobskoler9@gmail.com  
-💼 LinkedIn : *(ajoute ton lien si tu en as un)*  
+💼 LinkedIn : *(https://www.linkedin.com/in/yobs-k%C3%B6ler-37859b385/)*  
 🐙 GitHub : [github.com/YOBSKOLER](https://github.com/YOBSKOLER)
 
 ---
