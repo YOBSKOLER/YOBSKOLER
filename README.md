@@ -40,4 +40,5 @@
 
 ---
 PORTFOLIO : (https://yobskoler.github.io/dev/)
+---
 *_"Le code, c’est pas juste du texte, c’est une vision en construction."_*
