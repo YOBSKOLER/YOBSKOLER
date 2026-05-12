@@ -11,9 +11,9 @@
 
 💻 Technologies & Outils
 
-- Langages : `JavaScript`, `HTML`, `CSS`
-- Frameworks : `Laravel`,`React (en cours)`, `Node.js (prochainement)`
-- Autres : `Git`, `GitHub`, `VS Code`,
+- Langages : `JavaScript`,`Typescript`,`SQL`,`CSS (tailwind)`,`HTML`.
+- Frameworks : `Laravel`,`React`, `Node.js (prochainement)`
+- Autres : `Git`, `GitHub`, `VS Code`, 
 
 ---
 
@@ -26,7 +26,6 @@
 
 🌱 En ce moment j'apprends
 
-- Git & GitHub (versionnage propre)
 - React.js
 - Méthodologies Agile pour la gestion de projet
 
