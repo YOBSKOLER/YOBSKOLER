@@ -15,7 +15,7 @@
 
 ## 👨🏾‍💻 About Me
 
-
+````
 const yobsKoler = {
   location: "Douala, Cameroon 🇨🇲",
   education: "DUT Génie Informatique — IUT de Douala",
@@ -26,7 +26,7 @@ const yobsKoler = {
   languages: ["French 🇫🇷", "English 🇬🇧"],
   funFact: "I build products for African markets from my laptop in Douala 🌍",
 };
-
+````
 
 ---
 
