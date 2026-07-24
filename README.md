@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Scientist+%F0%9F%9A%80;Computer+Scientist+%F0%9F%93%B1;Based+in+Douala%2C+Cameroon+%F0%9F%87%A8%F0%9F%87%B2;Building+for+Africa+%26+Beyond+%F0%9F%8C)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)]([https://ton-portfolio.vercel.app](https://portfolio-yobskohler.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-yobskohler.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yobs-koler](https://www.linkedin.com/in/yobs-k%C3%B6ler-37859b385/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yobskoler9@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOBSKOLER)
@@ -42,8 +42,6 @@ const yobsKoler = {
 ### Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -52,7 +50,6 @@ const yobsKoler = {
 ### Database & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -106,7 +103,7 @@ Based in Douala, I work with startups and companies across Cameroon and beyond.
 
 💼 Open to **freelance projects**, **internships**, and **full-time opportunities**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-7C3AED?style=for-the-badge)]([https://ton-portfolio.vercel.app](https://portfolio-yobskohler.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-7C3AED?style=for-the-badge)](https://portfolio-yobskohler.vercel.app/)
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge)](mailto:yobskoler9@gmail.com)
 
 </div>
