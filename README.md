@@ -106,7 +106,7 @@ Based in Douala, I work with startups and companies across Cameroon and beyond.
 
 💼 Open to **freelance projects**, **internships**, and **full-time opportunities**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-7C3AED?style=for-the-badge)](https://ton-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-7C3AED?style=for-the-badge)]([https://ton-portfolio.vercel.app](https://portfolio-yobskohler.vercel.app/))
 [![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge)](mailto:yobskoler9@gmail.com)
 
 </div>
