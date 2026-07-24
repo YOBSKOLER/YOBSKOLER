@@ -4,8 +4,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Computer+Scientist+%F0%9F%9A%80;Computer+Scientist+%F0%9F%93%B1;Based+in+Douala%2C+Cameroon+%F0%9F%87%A8%F0%9F%87%B2;Building+for+Africa+%26+Beyond+%F0%9F%8C)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://ton-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yobs-koler)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)]([https://ton-portfolio.vercel.app](https://portfolio-yobskohler.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yobs-koler](https://www.linkedin.com/in/yobs-k%C3%B6ler-37859b385/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yobskoler9@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOBSKOLER)
 
@@ -24,7 +24,7 @@ const yobsKoler = {
   currentlyLearning: ["DevOps", "AI/ML Integration", "System Design"],
   availableFor: "Freelance · Internship · Full-time",
   languages: ["French 🇫🇷", "English 🇬🇧"],
-  funFact: "I build products for African markets from my laptop in Douala 🌍",
+  funFact: "I build products for African markets and the world from my laptop in Douala 🌍",
 };
 ````
 
@@ -47,7 +47,6 @@ const yobsKoler = {
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Database & DevOps
@@ -58,10 +57,9 @@ const yobsKoler = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
-<div align="center">
+<!-- <div align="center">
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
@@ -70,7 +68,7 @@ const yobsKoler = {
 | 🚜 **Lamtrac** | ERP platform for tractor dealership management | `Laravel` `React` `PostgreSQL` `Docker` | [View →](#) |
 | 🎓 **Academy 21** | Event & blog platform for a Cameroonian entrepreneur | `Laravel` `PostgreSQL` `Redis` | [View →](#) |
 
-</div>
+</div> -->
 
 ---
 
