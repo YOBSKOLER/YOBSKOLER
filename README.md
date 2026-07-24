@@ -111,7 +111,6 @@ Based in Douala, I work with startups and companies across Cameroon and beyond.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOBSKOLER&color=7c3aed&style=for-the-badge&label=Profile+Views)
 
 *Made with ❤️ from Douala, Cameroon 🇨🇲*
 
